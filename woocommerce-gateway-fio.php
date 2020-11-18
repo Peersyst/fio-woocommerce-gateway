@@ -1,19 +1,19 @@
 <?php
 /*
- * Plugin Name: WooCommerce Fio Gateway
+ * Plugin Name: Payment Gateway for FIO with WooCommerce
  * Plugin URI: https://wordpress.org/plugins/woocommerce-gateway-fio/
  * Description: Take FIO coin payments inn your store.
- * Author: Peersyst technologies
- * Author URI: 
+ * Author: Peersyst Technology
+ * Author URI:
  * Version:
- * Text Domain: woocommerce-gateway-fio
+ * Text Domain: payment-gateway-for-fio-with-wc
  * Domain Path: /languages
  *
  *
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  *
- * Copyright 2020 Peersyst technologies
+ * Copyright 2020 Peersyst Technology
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
