@@ -41,6 +41,9 @@ Yes
 == Changelog ==
 
 
+= 1.0.1 =
+* Changed text and pay_with_fio image size
+
 = 1.0.0 =
 * First production version
 

@@ -92,7 +92,7 @@ class WC_Gateway_Fio extends WC_Payment_Gateway {
         }
         echo '</div>';
 
-        echo '<div class="alert alert-danger">Transaction amount needs to match all the decimals in the amount above. Any transaction with different amount will be discarded!</div>';
+        echo '<div class="alert alert-danger">Transaction amount needs to match all the decimals in the amount below. Any transaction with different amount will not be processed.</div>';
 
         //QRcode
         echo '<div id="fio-qr" style="margin-bottom: 10px;"></div>';

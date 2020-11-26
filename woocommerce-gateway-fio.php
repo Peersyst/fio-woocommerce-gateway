@@ -5,7 +5,7 @@
  * Description: Take FIO coin payments inn your store.
  * Author: Peersyst Technology
  * Author URI:
- * Version:
+ * Version: 1.0.1
  * Text Domain: payment-gateway-for-fio-with-wc
  * Domain Path: /languages
  *
