@@ -31,7 +31,7 @@
                 }; */
                 //Generate the QR code with address
                 new QRCode("fio-qr", {
-                    text: this.fioAddress.toUpperCase().replace(/-/g, ''),
+                    text: this.fioAddress,
                     size: 256,
                     fill: '#000',
                     quiet: 0,
